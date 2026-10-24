@@ -73,9 +73,7 @@ The video is **Unlisted**. Reviewers can watch it using the link.
 [**View the RhythmTwin Project Presentation (PowerPoint)**](Rhythm_twin_ppt.pptx)
 
 ## 11. Architecture Diagram
-[**View the System Architecture Diagram (PDF)**](RhythmTwin_Architecture.pdf)
-
-These resource links work once the corresponding files have been uploaded to the root folder of this repository with the exact filenames shown above.
+[View RhythmTwin Architecture Diagram (PDF)](https://github.com/hasikarao/RhythmTwin/blob/main/Screenshot%202026-10-24%20174139.pdf)
 
 ## 12. Open-Source License
 A license has not yet been specified for this repository. External datasets remain subject to their original licenses and terms.
